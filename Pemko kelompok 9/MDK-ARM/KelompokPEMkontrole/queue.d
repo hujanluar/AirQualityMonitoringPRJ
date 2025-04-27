@@ -1,0 +1,15 @@
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+kelompokpemkontrole\queue.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+kelompokpemkontrole\queue.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+kelompokpemkontrole\queue.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+kelompokpemkontrole\queue.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+kelompokpemkontrole\queue.o: ../Core/Inc/FreeRTOSConfig.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+kelompokpemkontrole\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

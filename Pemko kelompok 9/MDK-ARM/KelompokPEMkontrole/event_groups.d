@@ -1,0 +1,15 @@
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+kelompokpemkontrole\event_groups.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+kelompokpemkontrole\event_groups.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+kelompokpemkontrole\event_groups.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+kelompokpemkontrole\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+kelompokpemkontrole\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

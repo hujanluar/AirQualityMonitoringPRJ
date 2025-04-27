@@ -1,0 +1,13 @@
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+kelompokpemkontrole\heap_4.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+kelompokpemkontrole\heap_4.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+kelompokpemkontrole\heap_4.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+kelompokpemkontrole\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+kelompokpemkontrole\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

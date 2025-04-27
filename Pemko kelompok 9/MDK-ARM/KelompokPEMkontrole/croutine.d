@@ -1,0 +1,14 @@
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+kelompokpemkontrole\croutine.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+kelompokpemkontrole\croutine.o: C:\Users\ACER\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+kelompokpemkontrole\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+kelompokpemkontrole\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
